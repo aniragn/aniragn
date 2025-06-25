@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Anir Agountaf, 23 y.o junior ai and data science engineer<br><br>- 🔭 I’m working as a data engineer<br>- 📚 I'm currently learning </p>
+<p align="left">I'm Anir Agountaf, 23 y.o junior ai and data science engineer</p>
 
 ###
 
